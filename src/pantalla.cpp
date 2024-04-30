@@ -32,7 +32,7 @@ int main(int argc, char const *argv[]){
         cout<<pantalla.ResetPosition();
         cout<<pantalla1.ResetPosition();
         cout<<pantalla2.ResetPosition();
-        cout<<pantalla3ResetPosition();
+        cout<<pantalla3.ResetPosition();
 
 
     }
