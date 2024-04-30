@@ -6,6 +6,7 @@
         "thread": "cpp",
         "deque": "cpp",
         "vector": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "iostream": "cpp"
     }
 }
